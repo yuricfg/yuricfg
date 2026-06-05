@@ -8,11 +8,11 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=seuusername&color=7c3aed&style=flat-square&label=VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=yuricfg&color=7c3aed&style=flat-square&label=VIEWS)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/seuusername?color=7c3aed&style=flat-square&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers/yuricfg?color=7c3aed&style=flat-square&label=FOLLOWERS)
 &nbsp;
-![GitHub stars](https://img.shields.io/github/stars/seuusername?color=7c3aed&style=flat-square&label=TOTAL+STARS)
+![GitHub stars](https://img.shields.io/github/stars/yuricfg?color=7c3aed&style=flat-square&label=TOTAL+STARS)
 
 </div>
 
@@ -25,8 +25,7 @@ const yuri = {
   role:     ["Full-Stack Developer", "Cybersec Enthusiast", "SaaS Builder"],
   location: "Brazil",
   stack:    ["C++", "NestJS", "Next.js", "Node.js", "Python"],
-  focus:    "Turning ideas into real products",
-  motto:    "Ship first, refactor later.",
+
 };
 ```
 
@@ -64,72 +63,19 @@ const yuri = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### 📅 AgendaPro
-> **B2B2C Scheduling SaaS**
-
-Scheduling platform built from scratch with my dad. Turborepo monorepo, NestJS backend, Next.js frontend, PostgreSQL via TypeORM.
-
-`NestJS` `Next.js` `PostgreSQL` `TypeORM` `Turborepo`
-
-</td>
-<td width="50%">
-
-### 🤖 StryxxBot
-> **Discord Automation Bot**
-
-Node.js bot for StryxxSupply shop management — stocker balance tracking, PIX payments via PaySync, and virtual wallet system.
-
-`Node.js` `discord.js v14` `SQLite` `PIX` `Express`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔐 Pentest Reports
-> **Web App Security**
-
-Authorized penetration tests with structured reports: CSRF bypass, disabled RLS, exposed API keys, checkout skimmers.
-
-`Burp Suite` `OWASP` `Supabase` `Recon`
-
-</td>
-<td width="50%">
-
-### 🛒 StryxxSupply
-> **Digital Goods Shop**
-
-Discord-based digital goods store with custom automation, inventory management, and payment integration.
-
-`Discord` `Automation` `PIX` `Node.js`
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&title_color=7c3aed&icon_color=a78bfa&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuricfg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&title_color=7c3aed&icon_color=a78bfa&hide_border=false"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuricfg&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&hide_border=false"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=seuusername&theme=tokyonight&border=7c3aed&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yuricfg&theme=tokyonight&border=7c3aed&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&hide_border=false)](https://git.io/streak-stats)
 
 </div>
 
@@ -139,7 +85,7 @@ Discord-based digital goods store with custom automation, inventory management, 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=seuusername&theme=tokyonight&column=7&margin-w=8&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuricfg&theme=tokyonight&column=7&margin-w=8&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -149,7 +95,7 @@ Discord-based digital goods store with custom automation, inventory management, 
 
 <div align="center">
 
-[![Yuri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seuusername&theme=tokyo-night&bg_color=0d1117&color=7c3aed&line=7c3aed&point=a78bfa&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Yuri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuricfg&theme=tokyo-night&bg_color=0d1117&color=7c3aed&line=7c3aed&point=a78bfa&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
