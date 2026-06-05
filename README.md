@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0d1117&height=200&section=header&text=Yuri&fontSize=80&fontColor=7c3aed&fontAlignY=38&desc=developer%20•%20builder%20•%20breaker%20of%20things&descSize=16&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0d1117&height=200&section=header&text=yu4ya&fontSize=80&fontColor=7c3aed&fontAlignY=38&desc=developer%20•%20builder%20•%20breaker%20of%20things&descSize=16&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Building+SaaS+from+scratch+%F0%9F%8F%97%EF%B8%8F;MG%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast;Building+SaaS+from+scratch+%F0%9F%8F%97%EF%B8%8F;Brasil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 ```ts
 const yuri = {
-  role:     ["Full-Stack Developer", "Cybersec Enthusiast", "SaaS Builder"],
+  role:     ["Full-Stack Developer", "Cybersec Enthusiast"],
   location: "Brazil",
   stack:    ["C++", "NestJS", "Next.js", "Node.js", "Python"],
 
