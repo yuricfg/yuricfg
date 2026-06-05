@@ -1,16 +1,188 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yuricfg/yuricfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0d1117&height=200&section=header&text=Yuri&fontSize=80&fontColor=7c3aed&fontAlignY=38&desc=developer%20•%20builder%20•%20breaker%20of%20things&descSize=16&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
-Here are some ideas to get you started:
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Building+SaaS+from+scratch+%F0%9F%8F%97%EF%B8%8F;MG%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=seuusername&color=7c3aed&style=flat-square&label=VIEWS)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/seuusername?color=7c3aed&style=flat-square&label=FOLLOWERS)
+&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/seuusername?color=7c3aed&style=flat-square&label=TOTAL+STARS)
+
+</div>
+
+---
+
+## `whoami`
+
+```ts
+const yuri = {
+  role:     ["Full-Stack Developer", "Cybersec Enthusiast", "SaaS Builder"],
+  location: "Brazil",
+  stack:    ["C++", "NestJS", "Next.js", "Node.js", "Python"],
+  focus:    "Turning ideas into real products",
+  motto:    "Ship first, refactor later.",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Cybersecurity
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 📅 AgendaPro
+> **B2B2C Scheduling SaaS**
+
+Scheduling platform built from scratch with my dad. Turborepo monorepo, NestJS backend, Next.js frontend, PostgreSQL via TypeORM.
+
+`NestJS` `Next.js` `PostgreSQL` `TypeORM` `Turborepo`
+
+</td>
+<td width="50%">
+
+### 🤖 StryxxBot
+> **Discord Automation Bot**
+
+Node.js bot for StryxxSupply shop management — stocker balance tracking, PIX payments via PaySync, and virtual wallet system.
+
+`Node.js` `discord.js v14` `SQLite` `PIX` `Express`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 Pentest Reports
+> **Web App Security**
+
+Authorized penetration tests with structured reports: CSRF bypass, disabled RLS, exposed API keys, checkout skimmers.
+
+`Burp Suite` `OWASP` `Supabase` `Recon`
+
+</td>
+<td width="50%">
+
+### 🛒 StryxxSupply
+> **Digital Goods Shop**
+
+Discord-based digital goods store with custom automation, inventory management, and payment integration.
+
+`Discord` `Automation` `PIX` `Node.js`
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&title_color=7c3aed&icon_color=a78bfa&hide_border=false"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&hide_border=false"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=seuusername&theme=tokyonight&border=7c3aed&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&hide_border=false)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=seuusername&theme=tokyonight&column=7&margin-w=8&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🔥 Activity
+
+<div align="center">
+
+[![Yuri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seuusername&theme=tokyo-night&bg_color=0d1117&color=7c3aed&line=7c3aed&point=a78bfa&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎯 Currently Focused On
+
+```
+🏗️  Developing AgendaPro — from architecture to production deploy
+🔐  Studying web pentesting (OWASP Top 10 hands-on)
+🤖  Experimenting with multi-model AI workflows using MCP
+📚  High school + full-time dev (yes, both at the same time)
+```
+
+---
+
+## 📫 Get in Touch
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/seuusername)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusername)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a3e,100:0f0f23&height=120&section=footer&animation=fadeIn" />
+
+*"Build things. Break things. Learn. Repeat."*
+
+</div>
