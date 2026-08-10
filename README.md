@@ -33,6 +33,20 @@ const yuri = {
 
 </div>
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yuricfg&theme=tokyonight&border=7c3aed&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&hide_border=false)](https://git.io/streak-stats)
+
+</div>
+
+## activity
+
+<div align="center">
+
+[![Yuri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuricfg&theme=tokyo-night&bg_color=0d1117&color=7c3aed&line=7c3aed&point=a78bfa&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
 ---
 
 <div align="center">
